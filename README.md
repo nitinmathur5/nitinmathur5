@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitinmathur5
-- 👀 I’m interested in Storage SW
-- 🌱 I’m currently learning "People Management"
-- 💞️ I’m looking to collaborate on Any Tech Topics
+- 👀 I’m interested in Storage SW, Data Centers and their workings
+- 🌱  Working with me: https://docs.google.com/presentation/d/1jAyFxvWP-BL5pLBpWss93YbWQFwVVOS13cJGlNU-awY
+- 💞️ I’m looking to collaborate on Any Leadership, People Management and Tech Topics
 - 📫 How to reach me: nitinmathur@gmail.com
 
 <!---
